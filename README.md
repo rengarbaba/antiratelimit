@@ -1,5 +1,5 @@
 # antiratelimit
-Discord Url spam
+Discord vanity spammer
 
 bu bot discordun rate limitine yakalanmadan url spamlamınızı sağlar.
 
