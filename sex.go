@@ -10,7 +10,7 @@ import (
 )
 
 const (
-    webhookURL = "https://discordapp.com/api/webhooks/1081035801028206622/aFTP6DamDk5w49DzJW8_Hf49miVD4GDvcCM_Epti-P1iY8TcEi0G58nNp8p8Pt7mbaKo"
+    webhookURL = "https://discordapp.com/api/webhooks/"
 )
 
 type Payload struct {
