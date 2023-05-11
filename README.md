@@ -11,4 +11,4 @@ Nasıl çalışır ?
 
 2-)cmd den dosya konumunu acın ve go run sex.go yazın çalışmaya başlicaktır.
 
- — 09.05.2023 ile fixlenmiştir
+ — 09.05.2023 tarihinde fixlenmiştir.
